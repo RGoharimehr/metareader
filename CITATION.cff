@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "metareader: flexible metadata reader for Excel/CSV/Parquet"
+version: "0.3.0"
+date-released: "2025-09-10"
+authors:
+  - name: Your Name
+repository-code: "https://github.com/yourname/metareader"
+license: "Apache-2.0"
+preferred-citation:
+  type: software
+  title: "metareader"
+  authors:
+    - name: Your Name
+  version: "0.3.0"
+  url: "https://github.com/yourname/metareader"
